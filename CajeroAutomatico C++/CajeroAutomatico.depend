@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1712098040 source:c:\users\pcdoctor\documents\cc++\cajeroautomatico\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<vector>
+	<map>
+	<chrono>
+	<thread>
+	<cctype>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"cuentas.h"
+	"cuentamlc.h"
+	"cajero.h"
+	"cliente.h"
+
+1712098467 source:c:\users\pcdoctor\documents\cc++\cajeroautomatico\src\cliente.cpp
+	"cliente.h"
+	<string>
+
+1712096300 c:\users\pcdoctor\documents\cc++\cajeroautomatico\include\cliente.h
+	<string>
+
+1712098100 c:\users\pcdoctor\documents\cc++\cajeroautomatico\include\cuentas.h
+	<vector>
+	<string>
+	"cliente.h"
+
+1712098070 c:\users\pcdoctor\documents\cc++\cajeroautomatico\include\cuentamlc.h
+	"cuentas.h"
+	<vector>
+	<string>
+
+1712098040 c:\users\pcdoctor\documents\cc++\cajeroautomatico\include\cajero.h
+	<map>
+	<string>
+	<vector>
+	"cuentas.h"
+	"cuentamlc.h"
+
+1712098151 source:c:\users\pcdoctor\documents\cc++\cajeroautomatico\src\cuentas.cpp
+	"cuentas.h"
+	<iostream>
+	<string>
+	<ctime>
+	<vector>
+	<map>
+	<chrono>
+	<thread>
+	<cctype>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1712098467 source:c:\users\pcdoctor\documents\cc++\cajeroautomatico\src\cajero.cpp
+	"cajero.h"
+	<iostream>
+	<string>
+	<ctime>
+	<vector>
+	<map>
+	<chrono>
+	<thread>
+	<cctype>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"cuentas.h"
+	"cuentamlc.h"
+
+1712098281 source:c:\users\pcdoctor\documents\cc++\cajeroautomatico\src\cuentamlc.cpp
+	"cuentamlc.h"
+	<vector>
+	<string>
+
